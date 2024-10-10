@@ -1,1 +1,1 @@
-Project-ClientPart and ProjectServerPart work together
+Project-ClientPart and Project-ServerPart work together
